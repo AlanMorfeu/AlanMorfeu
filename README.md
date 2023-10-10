@@ -1,8 +1,9 @@
-# Alan David
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=87CEFA&size=35&center=true&vCenter=true&width=1000&lines=Alan+David;Desenvolvedor+de+Software;Bem+vindo+ao+meu+perfil+do+GitHub+:%29)](https://git.io/typing-svg)
 Sempre tive uma conexão com tecnologia por meio de video games, e foi só depois de um tempo que resolvi mergulhar nesse mundo como programador e descobri que a programação sempre foi minha paixão.
 
 ## Habilidades
 ![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=c-sharp&logoColor=823085)
+![.NET](https://img.shields.io/badge/.Net-000?style=for-the-badge&logo=.net&logoColor=823085)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
